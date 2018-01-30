@@ -1,3 +1,7 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Denise Serur."
+
+"Sergio Palafox
+https://github.com/serjpalafox/tarea_colaborativo-1
+https://github.com/deniserur/tarea_colaborativo
